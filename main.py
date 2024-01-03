@@ -20,3 +20,7 @@ def read_git():
 @app.get("/value/argo")
 def read_git():
     return outer_value
+
+@app.get("/v101")
+def new_function():
+    return "It's only on ver 1.0.1!!"
