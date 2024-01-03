@@ -20,7 +20,7 @@ N/A
 
 <!-- Write some description about this repo -->
 
-Sample Python application of [Dive to Argo][dive-argo].  
+Sample FastAPI application for [Dive to Argo][dive-argo].  
 Including 4 simple files:
 
 - `.gitignore`
