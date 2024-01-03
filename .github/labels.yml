@@ -1,0 +1,51 @@
+- name: "bug"
+  color: ee0701
+  description: "Something isn't working"
+- name: "documentation"
+  color: 0052cc
+  description: "Documentation about this repository"
+- name: "code-improvement"
+  color: 1dd5db
+  description: "Improving performance or readability of code, not introducing new features. Includes refactoring."
+- name: "dependencies"
+  color: f6d582
+  description: "Change in dependency file"
+- name: "feature"
+  color: f0a8f5
+  description: "New features or options"
+- name: "content/data"
+  color: 156a83
+  description: "Error, change or improvements with content or data, not related with app functionality itself."
+- name: "repo-settings"
+  color: 000000
+  description: "Changing repository settings, including community standard & Github Actions."
+- name: "question"
+  color: ad2af7
+  description: "Just a question, not an issue"
+- name: "security"
+  color: ee0701
+  description: "Security issue that needs to be resolved ASAP."
+
+- name: "in-progress"
+  color: fdda0d
+  description: ""
+- name: "rejected"
+  color: d7d7d7
+  description: ""
+- name: "resolved"
+  color: a3e906
+  description: ""
+
+- name: "priority-critical"
+  color: ee0701
+  description: "This should be dealt with ASAP."
+- name: "priority-high"
+  color: fab52f
+  description: "Not critical, but important enough"
+- name: "priority-medium"
+  color: ffd966
+  description: "This may be useful, and needs some attention."
+- name: "priority-low"
+  color: ffffff
+  description: "Okay... nice suggest, maybe..."
+# Inspired from https://github.com/dec0dOS/amazing-github-template and many other repositories
